@@ -1,3 +1,2 @@
-<h1> Java Grafis </h1>
+<h1> Graphic Java </h1>
 
-<p>Beberapa contoh Java Grafis </p>
