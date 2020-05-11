@@ -5,7 +5,7 @@
 ![kartu](https://user-images.githubusercontent.com/28913705/81543060-c73d7c00-939f-11ea-9747-32f46e7739b3.png)
 
 <p></p>
-<p><h2>Java Graphics is built using :
+<p><h2>Built using :
   <ul>
     <li>Java programming language</li>
     <li>Java Applet</li>
